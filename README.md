@@ -22,6 +22,10 @@ Utilisé sur : **Opale**.
 
 - Optionnelles : `PlaceholderAPI`
 
+## Configuration
+
+Aucun fichier de configuration.
+
 ## Compilation
 
 Java 25 et Maven :
